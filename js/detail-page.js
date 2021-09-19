@@ -120,7 +120,7 @@ const addToCart = (id) => {
 
 
 const buyNow = () => {
-    let number = "+918248602899";
+    let number = "<YOUR PHONE NUMBER>";
     let message = `Hi Provider i would like to by the following product,
 `;
 

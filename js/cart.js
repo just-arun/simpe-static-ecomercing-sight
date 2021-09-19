@@ -118,7 +118,7 @@ const removeCount = (id) => {
 const checkout = () => {
     const data = JSON.parse(localStorage.getItem("cart")).cart
 
-    let number = "+918248602899";
+    let number = "<YOUR PHONE NUMBER>";
     let message = `Hi Provider i would like to by the following product,
 `;
 console.log(data);
