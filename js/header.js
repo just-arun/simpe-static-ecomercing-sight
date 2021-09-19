@@ -19,11 +19,11 @@ const headerInit = () => {
     }
     </style>
 <div class="container mx-auto flex p-5  header-class" style="align-items: center;">
-    <a class="flex title-font font-medium items-center text-gray-900  md:mb-0">
+    <a href="./index.html" class="flex title-font font-medium items-center text-gray-900  md:mb-0">
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full" viewBox="0 0 24 24">
             <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
         </svg>
-        <a href="/"><span class="ml-3 text-xl">My Shop</span></a>
+        <a href="./index.html"><span class="ml-3 text-xl">My Shop</span></a>
     </a>
     <a href="./cart.html">
         <button class="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base md:mt-0">
